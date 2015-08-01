@@ -1,0 +1,23 @@
+.green-background {
+  background-color: green;
+}
+
+.yellow-background {
+  background-color: yellow;
+}
+
+.red-background {
+  background-color: red;
+}
+
+.white-background {
+  background-color: white;
+}
+
+.blue-background {
+  background-color: blue;
+}
+
+html {
+  text-align: center;
+}
